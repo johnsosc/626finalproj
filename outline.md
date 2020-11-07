@@ -1,6 +1,6 @@
 # Final Project Outline - Stephanie Trinka - IA626 
 -------------------------------------------------
-## Introduction - Yellow Green Taxi Data 
+## Introduction - Yellow Green NYC Taxi Data 
 
 Project Scope 
 *	My primary focus will be on data collected by the taxi and limousine commission (TLC) of NYC. Specifically, I will analyze yellow and green taxi records from April 2019. 
