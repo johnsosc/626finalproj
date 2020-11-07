@@ -15,8 +15,9 @@ Analysis/Filtering
 *	Analyze average distance per taxi zone for both morning and evening commutes
 
 Questions 
-*	How do the yellow and green taxi morning/evening commutes compare by distance? 
+*	How do the yellow and green taxi morning/evening commutes compare by distance? by demand? 
 *	Do certain zones overlap? Do the zones not overlap? If not, why?
+* 	Which zones are highest in demand? least? 
 
 Data Source 
 *	Yellow Taxi Data - https://data.cityofnewyork.us/Transportation/2019-Yellow-Taxi-Trip-Data/2upf-qytp
