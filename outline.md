@@ -18,6 +18,6 @@ Questions
 *	How do the yellow and green taxi morning/evening commutes compare by distance? 
 *	Do certain zones overlap? Do the zones not overlap? If not, why?
 
-Sources 
+Data Source 
 *	Yellow Taxi Data - https://data.cityofnewyork.us/Transportation/2019-Yellow-Taxi-Trip-Data/2upf-qytp
 *	Green Taxi Data - https://data.cityofnewyork.us/Transportation/2019-Green-Taxi-Trip-Data/q5mz-t52e
