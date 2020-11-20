@@ -9,10 +9,9 @@ Below are images of the taxi zones covered between the two files. In the assessm
 
 ------------------------------------------------------------------
 ## Approach
-* I will examine the weekday work commute to see any trends between the two services
-* Weekend data will be omitted
-* Any erroneous dates outside the month of April will be removes
-* My analysis will look at morning commute hours (7-10 am) and evening commute hours (4-7pm)
+* I will examine the weekday work commute to see any trends between the two services. Weekend data will be omitted.
+* Any erroneous or invalid dates outside the month of April 2019 will be removed. 
+* My analysis will focus on the morning commute hours (7-10 am) and evening commute hours (4-7pm)
 ------------------------------------------------------------------------------------------------
 ## ETL Process
 
