@@ -10,11 +10,11 @@ This repository contains taxi data collected between the period of April 1, 2019
 * Green Taxi Data - 514,393 rows
 
 --------------------------------------------------
-#ETL Process
+## ETL Process
 In the original files, there were rows that fell outisde of April 2019 date range. These were removed. Additionally, my focus for this analysis was only on weekday data, anything outside of this date criteria, were also removed. 
 --------------------------------------------------
-#Average Trip Distance per Hour - Morning Commute
-Hour | Green Taxi - Average Trip Distance | 
+# Average Trip Distance per Hour - Morning Commute
+Hour | Green Taxi | 
 -------------|-------------|
 07 | 14.12 |
 08 | 13.08 | 
@@ -22,7 +22,7 @@ Hour | Green Taxi - Average Trip Distance |
 10| 13.33  |
 -----------------------------------------------------
 # Average Trip Distance per Hour - Evening Commute 
-Hour | Green Taxi - Average Trip Distance | 
+Hour | Green Taxi | 
 -------------|-------------|
 16 |13.54 |
 17 |13.57 |
