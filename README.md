@@ -17,18 +17,18 @@ In the original files, there were rows that fell outisde of April 2019 date rang
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/weekdayfiltering.PNG)
 --------------------------------------------------
 ## Average Trip Distance per Hour - Morning Commute
-Hour | Green Taxi | 
+Hour | Green Taxi | Yellow Taxi
 -------------|-------------|
-07 | 14.12 |
-08 | 13.08 | 
-09 | 13.43 |
-10| 13.33  |
+07 | 14.12 | 163.68
+08 | 13.08 | 165.63
+09 | 13.43 | 165.38
+10| 13.33  | 165.54
 -----------------------------------------------------
 ## Average Trip Distance per Hour - Evening Commute 
-Hour | Green Taxi | 
+Hour | Green Taxi | Yellow Taxi
 -------------|-------------|
-16 |13.54 |
-17 |13.57 |
-18 |12.52 |
-19 |11.89 |
+16 |13.54 | 166.09
+17 |13.57 | 165.36
+18 |12.52 | 165.62
+19 |11.89 | 163.37
 
