@@ -7,7 +7,13 @@ Below are images of the taxi zones covered between the two files. In the assessm
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/map.png)
 
---------------------------------------------------
+------------------------------------------------------------------
+## Approach
+* I will examine the weekday work commute to see any trends between the two services
+* Weekend data will be omitted
+* Any erroneous dates outside the month of April will be removes
+* My analysis will look at morning commute hours (7-10 am) and evening commute hours (4-7pm)
+------------------------------------------------------------------------------------------------
 ## ETL Process
 
 In the original files, there were rows that fell outisde of April 2019 date range. These were removed. Additionally, my focus for this analysis was only on weekday data, anything outside of this date criteria, were also removed. 
