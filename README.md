@@ -2,7 +2,7 @@
 -------------------------------------------------
 ## Introduction - Yellow & Green NYC Taxi Data
 
-This repository will examine New York City Yellow and Green taxi data collected between the period of April 1, 2019 and April 30, 2019 from the taxi and limousine commission (TLC). In the sections to follow, I examine the fields contained within the files to further investigate what the data is presenting.
+This repository will examine New York City Yellow and Green taxi data collected between the period of April 1, 2019 and April 30, 2019 from the taxi and limousine commission (TLC). 
 Below are images of the taxi zones covered between the two files. In the assessment to follow, I strive to identify any differences between the yellow and taxi services. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/map.png)
