@@ -17,6 +17,9 @@ In the original files, there were rows that fell outisde of April 2019 date rang
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/weekdayfiltering.PNG)
 --------------------------------------------------
 ## Average Trip Distance per Hour - Morning Commute
+
+I examined the average distance traveled for both yellow and green taxis on weekdays between the hours of 7:00am -10:00am. Below are the results. 
+
 Hour | Green Taxi | Yellow Taxi |
 -------------|-------------|--------|
 07 | 14.12 | 163.68 |
@@ -25,6 +28,9 @@ Hour | Green Taxi | Yellow Taxi |
 10| 13.33  | 165.54 |
 -----------------------------------------------------
 ## Average Trip Distance per Hour - Evening Commute 
+
+I examined the average distance traveled for both yellow and green taxis on weekdays between the hours of 4:00pm -6:00pm. Below are the results. 
+
 Hour | Green Taxi | Yellow Taxi |
 -------------|-------------|--------|
 16 |13.54 | 166.09 |
