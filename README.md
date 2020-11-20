@@ -13,6 +13,7 @@ This repository contains taxi data collected between the period of April 1, 2019
 ## ETL Process
 
 In the original files, there were rows that fell outisde of April 2019 date range. These were removed. Additionally, my focus for this analysis was only on weekday data, anything outside of this date criteria, were also removed. 
+
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/weekdayfiltering.PNG)
 --------------------------------------------------
 ## Average Trip Distance per Hour - Morning Commute
