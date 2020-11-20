@@ -41,10 +41,4 @@ Hour | Green Taxi | Yellow Taxi |
 -------------------------------------
 ## NYC Taxi Zones ##
 
-fig, ax = plt.subplots(nrows=1, ncols=2, figsize=(15,8))
-ax = plt.subplot(1, 2, 1)
-ax.set_title("Boroughs in NYC")
-draw_region_map(ax, sf)
-ax = plt.subplot(1, 2, 2)
-ax.set_title("Zones in NYC")
-draw_zone_map(ax, sf)
+![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/map.png)
