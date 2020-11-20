@@ -16,7 +16,7 @@ Below are images of the taxi zones covered between the two files. In the assessm
 ------------------------------------------------------------------------------------------------
 ## ETL Process
 
-In the original files, there were rows that fell outisde of April 2019 date range. These were removed. Additionally, my focus for this analysis was only on weekday data, anything outside of this date criteria, were also removed. 
+In the original files, there were rows that fell outisde of April 2019 date range. Additionally, my focus for this analysis was only on weekday data, anything outside of these date criteria were removed. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/weekdayfiltering.PNG)
 --------------------------------------------------
