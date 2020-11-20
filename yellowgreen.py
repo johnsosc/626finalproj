@@ -77,7 +77,7 @@ df.to_csv(save_filepath)
 
 
 # Average Distance per Hour
-
+'''
 def get_avg(fn):
     f = open(fn,'r')
     reader = csv.reader(f)
@@ -138,7 +138,7 @@ for i in hour_averages.items():
 total_avg = (total_avg / count2)
 
 print("total_avg: {:.2f}".format(total_avg))
-
+'''
 
 ##Average Distance per PU Location##
 '''
@@ -201,4 +201,33 @@ total_avg = (total_avg / count2)
 
 print("total_avg: {:.2f}".format(total_avg))
 '''
+#Distinct Values (Zones) # 
+
+fn = 'stephanie_green_taxi.csv'
+
+f = open(fn,'r')
+reader = csv.reader(f)
+next(reader, None) #skips header
+'''    
+import operator
+shist={}
+for row in reader:
+        k=row[6] 
+        if k in shist.keys():
+            shist[k]+=1
+        else:
+            shist[k]=1
+     
+print(row[6])'''
+
+D = dict()
+D[6] = []
+
+
+for row in reader:
+    if row[6] not in D[6]:
+        D[6].append(row[6])
+
+for i in D.items():
+    print(i)
 
