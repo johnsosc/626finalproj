@@ -18,7 +18,7 @@ In the original files, there were rows that fell outisde of April 2019 date rang
 
 I examined the average distance traveled for both yellow and green taxis on weekdays between the hours of 7:00am -10:00am. Below are the results. 
 
-Hour | Green Taxi | Yellow Taxi |
+Hour | Green Taxi - Morning | Yellow Taxi - Morning |
 -------------|-------------|--------|
 07 | 14.12 | 163.68 |
 08 | 13.08 | 165.63 |
