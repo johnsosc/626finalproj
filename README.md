@@ -25,8 +25,8 @@ Hour | Green Taxi | Yellow Taxi |
 10| 13.33  | 165.54 |
 -----------------------------------------------------
 ## Average Trip Distance per Hour - Evening Commute 
-Hour | Green Taxi | Yellow Taxi
--------------|-------------|
+Hour | Green Taxi | Yellow Taxi |
+-------------|-------------|--------|
 16 |13.54 | 166.09 |
 17 |13.57 | 165.36 |
 18 |12.52 | 165.62 |
