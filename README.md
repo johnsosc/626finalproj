@@ -6,7 +6,12 @@ This repository will examine New York City yellow and green taxi data collected 
 Below are images of the taxi zones covered between the two files. In the assessment to follow, I strive to identify any differences between the yellow and green taxi services. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/map.png)
+------------------------------------------------------------------
+## Questions
 
+* How do the yellow and green taxi morning/evening commutes compare by distance? by demand?
+* Do certain zones overlap? Do the zones not overlap? If not, why?
+* Which zones are highest in demand? least?
 ------------------------------------------------------------------
 ## Approach
 * I will examine the weekday work commute to see any trends between the two services. 
