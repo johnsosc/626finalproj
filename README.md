@@ -53,7 +53,7 @@ Hour | Green Taxi | Yellow Taxi |
 16 |109.71 | 166.09 |
 17 |107.02 | 165.36 |
 18 |106.15 | 165.62 |
-19 |105.97 | 163.37 |
+19 |105.97 | 163.37 | 
 **Avg**|**107.22** | **165.11** |
 -------------------------------------
 ## Green Taxi - Most Active Pick Up & Drop Off Locations - Morning & Evening Commutes ##
@@ -68,4 +68,21 @@ In the graphs below, I display the pick up locations with the highest counts of 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_DOEveningCount.PNG)
 
 --------------------------------------------------
-## Analysis
+## Observations 
+* In both the morning and evening commutes, green taxi had a smaller average distance traveled than the yellow taxi service. 
+* In both the morning and evening commutes, green taxi had fewer trip instances than the yellow taxi service. 
+
+Below is a description list of the most active locations for yellow and green taxi during the evening and morning locations
+
+ Green Taxi | Yellow Taxi |
+-------------|-------------|
+74: Manhattan - East Harlem North | 236: Manhattan - Upper East Side North
+75: Manhattan - East Harlem South | 237: Manhattan - Upper East Side South
+41: Manhattan - Central Harlem | 170: Manhattan - Murray Hill
+42: Manhattan - Central Harlem North| 48: Manhattan - Clinton East
+166: Manhattan - Morningside Heights | 141: Manhattan - Lenox Hill East
+95: Queens - Forest Hills | 238: Manhattan - Upper West Side North
+116: Manhattan - Hamilton Heights | 239: Manhattan - Upper West Side South
+244: Manhattan - Washington Heights South | 107:  Manhattan - Gramercy 
+82: Queens - Elmshurst | 263: Manhattan - Yorkville West
+97: Brooklyn - Fort Greene | 234: Manhattan - Union Sq. 
