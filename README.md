@@ -49,3 +49,8 @@ In the graphs below, I display the pick up locations with the highest counts of 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_PUMorningCount.PNG)
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_DOEveningCount.PNG)
+-------------------------------------
+## Yellow Taxi - Most Active Pick Up & Drop Off Locations - Morning & Evening Commutes ##
+
+![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_PUMorningCount.PNG)
+![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_DOEveningCount.PNG)
