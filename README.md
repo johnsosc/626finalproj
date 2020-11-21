@@ -86,3 +86,7 @@ Below is a description list of the most active locations for yellow and green ta
 244: Manhattan - Washington Heights South | 107:  Manhattan - Gramercy 
 82: Queens - Elmshurst | 263: Manhattan - Yorkville West
 97: Brooklyn - Fort Greene | 234: Manhattan - Union Sq. 
+
+Upon mapping the yellow and green list above, you can clearly see in this sample that the range of the green taxi is a lot wider than the yellow taxi. 
+
+![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/Sample_Map.PNG)
