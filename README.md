@@ -44,7 +44,7 @@ Hour | Green Taxi | Yellow Taxi |
 19 |105.97 | 163.37 |
 **Avg**|**107.22** | **165.11** |
 -------------------------------------
-## Green Taxi - Most Active Pick Up Locations - Morning & Evening Commutes ##
-
+## Green Taxi - Most Active Pick Up & Drop Off Locations - Morning & Evening Commutes ##
+In the graphs below, I display the pick up locations with the highest counts of pick up activity. What is most apparent is that a lot of the pick up locations shown in the morning, re-appear in the evening. This makes sense because this would mean that commuters are returning to their initial pick up location
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_PUMorningCount.PNG)
-![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_PUEveningCount.PNG)
+![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_DOEveningCount.PNG)
