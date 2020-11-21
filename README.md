@@ -10,7 +10,7 @@ Below are images of the taxi zones covered between the two files. In the assessm
 ## Questions
 
 * How do the yellow and green taxi morning/evening commutes compare by distance? by demand?
-* Do certain zones overlap? Do the zones not overlap? If not, why?
+* Do certain zones overlap? If not, why?
 * Which zones are highest in demand? least?
 ------------------------------------------------------------------
 ## Approach
