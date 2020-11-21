@@ -46,4 +46,5 @@ Hour | Green Taxi | Yellow Taxi |
 -------------------------------------
 ## Green Taxi - Most Active Pick Up Locations - Morning & Evening Commutes ##
 
-![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_PUMorningCount.PNG) ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_PUEveningCount.PNG)
+![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_PUMorningCount.PNG)
+![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_PUEveningCount.PNG)
