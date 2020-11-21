@@ -1,6 +1,6 @@
 # Final Project - Stephanie Trinka - IA626 
 -------------------------------------------------
-## Introduction - Yellow & Green NYC Taxi Data
+## Introduction - Yellow & Green NYC Taxi Data - April 2019
 
 This repository will examine New York City yellow and green taxi data collected between the period of April 1, 2019 and April 30, 2019 from the taxi and limousine commission (TLC). 
 Below are images of the taxi zones covered between the two files. In the assessment to follow, I strive to identify any differences between the yellow and green taxi services. 
