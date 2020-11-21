@@ -77,7 +77,7 @@ df.to_csv(save_filepath)
 
 
 # Average Distance per Hour
-
+'''
 def get_avg(fn):
     f = open(fn,'r')
     reader = csv.reader(f)
@@ -138,7 +138,7 @@ for i in hour_averages.items():
 total_avg = (total_avg / count2)
 
 print("total_avg: {:.2f}".format(total_avg))
-
+'''
 
 ##Average Distance per PU Location##
 '''
