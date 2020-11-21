@@ -77,7 +77,7 @@ df.to_csv(save_filepath)
 
 
 # Average Distance per Hour
-'''
+
 def get_avg(fn):
     f = open(fn,'r')
     reader = csv.reader(f)
@@ -89,11 +89,11 @@ def get_avg(fn):
     for xx, row in enumerate(reader):
         dts = row[2][1:]
         dtl = dts.split(":")
-        hour = dtl[0][8:10]
+        hour = dtl[0][10:12]
         k = hour
 
         try:
-            r7 = int(row[9])
+            r7 = float(row[6])
 
             k=hour
             if k in shist.keys():
@@ -120,7 +120,7 @@ def get_avg(fn):
     return(hr_dict)
 
 
-fn = 'stephanie_yellow_taxi.csv'
+fn = 'stephanie_green_taxi.csv'
 hour_averages = get_avg(fn)
 
 print()
@@ -138,7 +138,7 @@ for i in hour_averages.items():
 total_avg = (total_avg / count2)
 
 print("total_avg: {:.2f}".format(total_avg))
-'''
+
 
 ##Average Distance per PU Location##
 '''
@@ -155,7 +155,7 @@ def get_avg(fn):
         k = zone
 
         try:
-            r7 = int(row[9])
+            r7 = float(row[5])
 
             k=zone
             if k in shist.keys():
@@ -182,7 +182,7 @@ def get_avg(fn):
     return(hr_dict)
 
 
-fn = 'stephanie_green_taxi.csv'
+fn = 'stephanie_yellow_taxi.csv'
 zone_averages = get_avg(fn)
 
 print()
@@ -200,15 +200,16 @@ for i in zone_averages.items():
 total_avg = (total_avg / count2)
 
 print("total_avg: {:.2f}".format(total_avg))
-'''
-#Distinct Values (Zones) # 
 
+#Distinct Values (Zones) # 
+'''
+'''
 fn = 'stephanie_green_taxi.csv'
 
 f = open(fn,'r')
 reader = csv.reader(f)
 next(reader, None) #skips header
-'''    
+   
 import operator
 shist={}
 for row in reader:
@@ -218,7 +219,7 @@ for row in reader:
         else:
             shist[k]=1
      
-print(row[6])'''
+print(row[6])
 
 D = dict()
 D[6] = []
@@ -230,4 +231,5 @@ for row in reader:
 
 for i in D.items():
     print(i)
+'''    
 

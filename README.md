@@ -26,10 +26,11 @@ I examined the average distance traveled for both yellow and green taxis on week
 
 Hour | Green Taxi | Yellow Taxi  |
 -------------|-------------|--------|
-07 | 14.12 | 163.68 |
-08 | 13.08 | 165.63 |
-09 | 13.43 | 165.38 |
-10| 13.33  | 165.54 |
+07 | 101.27 | 163.68 |
+08 | 102.32 | 165.63 |
+09 | 105.36 | 165.38 |
+10 | 106.76 | 165.54 |
+Avg| 103.93 | 165.06 |
 -----------------------------------------------------
 ## Average Trip Distance per Hour - Evening Commute 
 
@@ -37,9 +38,9 @@ I examined the average distance traveled for both yellow and green taxis on week
 
 Hour | Green Taxi | Yellow Taxi |
 -------------|-------------|--------|
-16 |13.54 | 166.09 |
-17 |13.57 | 165.36 |
-18 |12.52 | 165.62 |
-19 |11.89 | 163.37 |
-
+16 |109.71 | 166.09 |
+17 |107.02 | 165.36 |
+18 |106.15 | 165.62 |
+19 |105.97 | 163.37 |
+Avg|107.22 | 165.11 |
 -------------------------------------
