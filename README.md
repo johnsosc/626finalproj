@@ -65,3 +65,6 @@ In the graphs below, I display the pick up locations with the highest counts of 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_PUMorningCount.PNG)
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_DOEveningCount.PNG)
+
+--------------------------------------------------
+## Analysis
