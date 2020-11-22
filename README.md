@@ -109,4 +109,4 @@ Below is a description list of the most active locations for yellow and green ta
 Upon mapping the yellow and green list above, you can clearly see in this sample that the range of the green taxi is a lot wider than the yellow taxi. 
 Yellow taxi service appears to be a predominantly manhattan based service, while the green taxi has further range in other buroughs. 
 
-![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/Sample_Map.PNG)
+![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/TopTrips.pnv)
