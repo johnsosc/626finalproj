@@ -11,7 +11,7 @@ Below are images of the taxi zones covered between the two files. In the assessm
 
 * How do the yellow and green taxi morning/evening commutes compare by distance? By demand?
 * Do certain zones overlap? If not, why?
-* Which zones are highest in demand? 
+* Which zones are highest in demand? The Least? 
 --------------------------------------------------------------------------------------------
 ## Approach
 * I will examine the weekday work commute to see any trends between the two services. 
@@ -66,11 +66,19 @@ In the graphs below, I display the pick up locations with the highest counts of 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_PUMorningCount.PNG)
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_DOEveningCount.PNG)
+-------------------------------------
+## Green Taxi - Least Active Pick Up & Drop Off Zone IDs - Morning & Evening Commutes ##
+In the graphs below, I display the pick up locations with the highest counts of pick up activity for the morning commute and the drop off locations with the highest activity for the evening commute.
+-------------------------------------
+## Yellow Taxi - Most Active Pick Up & Drop Off Zone IDs - Morning & Evening Commutes ##
+
 
 --------------------------------------------------
 ## Observations - Trip Distance - Yellow v. Green Taxi
 * In both the morning and evening commutes, green taxi had a smaller average distance traveled than the yellow taxi service. 
 ## Observations - Zone Trip Instances - Yellow v. Green Taxi
+
+### Pick Up Zone ID Analysis
 * In both the morning and evening commutes, green taxi had fewer trip instances than the yellow taxi service. 
 
 * Below is a descriptive list of the top 30 most active pick up zones for yellow and green taxi during the evening and morning commutes. 
