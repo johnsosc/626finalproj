@@ -46,7 +46,7 @@ Hour | Green Taxi | Yellow Taxi  |
 -----------------------------------------------------
 ## Average Trip Distance per Hour - Evening Commute: 4-7PM
 
-I examined the average distance traveled for both yellow and green taxis on weekdays between the hours of 4:00pm -6:00pm. Below are the results. 
+I examined the average distance traveled for both yellow and green taxis on weekdays between the hours of 4:00pm -7:00pm. Below are the results. 
 
 Hour | Green Taxi | Yellow Taxi |
 -------------|-------------|--------|
