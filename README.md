@@ -1,18 +1,18 @@
 # Final Project - Stephanie Trinka - IA626 
--------------------------------------------------
+---------------------------------------------------------------------------------------
 ## Introduction - Yellow & Green NYC Taxi Data - April 2019
 
 This repository will examine New York City yellow and green taxi data collected between the period of April 1, 2019 and April 30, 2019 from the taxi and limousine commission (TLC). 
 Below are images of the taxi zones covered between the two files. In the assessment to follow, I strive to identify any differences between the yellow and green taxi services. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/map.png)
-------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ## Questions
 
 * How do the yellow and green taxi morning/evening commutes compare by distance? By demand?
 * Do certain zones overlap? If not, why?
 * Which zones are highest in demand? The least?
-------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 ## Approach
 * I will examine the weekday work commute to see any trends between the two services. 
 * Weekend data will be omitted.
@@ -25,13 +25,13 @@ In the original files, there were rows that fell outisde of April 2019 date rang
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/DateFilter.PNG)
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/weekdayfiltering.PNG)
---------------------------------------------------
+-------------------------------------------------------------------------------------------------
 ## Filtering 
 
 I filtered my remaining weekday dataset to show data by the hour. 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/FilteringSample.PNG)
 
---------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 ## Average Trip Distance per Hour - Morning Commute: 7-10AM
 
 I examined the average distance traveled for both yellow and green taxis on weekdays between the hours of 7:00am -10:00am. Below are the results. 
@@ -73,7 +73,7 @@ In the graphs below, I display the pick up locations with the highest counts of 
 ## Observations - Zone Trip Instances - Yellow v. Green Taxi
 * In both the morning and evening commutes, green taxi had fewer trip instances than the yellow taxi service. 
 
-* Below is a description list of the top 30 most active locations for yellow and green taxi during the evening and morning locations. These location represent 75% of green and yellow taxi data. 
+* Below is a descriptive list of the top 30 most active pick up/ drop off locations for yellow and green taxi during the evening and morning locations. 
 
 Green Taxi | Yellow Taxi |
 -------------|-------------|
@@ -106,8 +106,8 @@ Green Taxi | Yellow Taxi |
 49:Brooklyn-Clinton Hill|262:Manhattan-Yorkville East
 92:Queens-Flushing|113:Manhattan-Greenwich Village North
 
-The map below represents the list above. The plots represent 75% of overall data.
-It is evident that the range of the green taxi is a lot wider than the yellow taxi. 
-Yellow taxi service appears to be a predominantly Manhattan based service, while the green taxi has further range in other buroughs. 
+The map below represents the active list above. The plots represent 75% of overall data.
+It is apparent that the green taxi service range is more comprehensive than the yellow taxi service. 
+The Yellow taxi service appears to be a predominantly Manhattan based service (with the exception of LaGuardia Airport), while the green taxi service expands to the other NYC buroughs. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/TopTrips.png)
