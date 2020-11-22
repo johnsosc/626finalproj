@@ -76,16 +76,35 @@ Below is a description list of the most active locations for yellow and green ta
 
  Green Taxi | Yellow Taxi |
 -------------|-------------|
-74: Manhattan - East Harlem North | 236: Manhattan - Upper East Side North
-75: Manhattan - East Harlem South | 237: Manhattan - Upper East Side South
-41: Manhattan - Central Harlem | 170: Manhattan - Murray Hill
-42: Manhattan - Central Harlem North| 48: Manhattan - Clinton East
-166: Manhattan - Morningside Heights | 141: Manhattan - Lenox Hill East
-95: Queens - Forest Hills | 238: Manhattan - Upper West Side North
-116: Manhattan - Hamilton Heights | 239: Manhattan - Upper West Side South
-244: Manhattan - Washington Heights South | 107:  Manhattan - Gramercy 
-82: Queens - Elmshurst | 263: Manhattan - Yorkville West
-97: Brooklyn - Fort Greene | 234: Manhattan - Union Sq. 
+74:Manhattan-East Harlem North|237:Manhattan-Upper East Side South
+75:Manhattan-East Harlem South|236:Manhattan-Upper East Side North
+41:Manhattan-Central Harlem|162:Manhattan-Midtown East
+166:Manhattan-Morningside Heights|161:Manhattan-Midtown Center
+7:Queens-Astoria|186:Manhattan-Penn Station/Madison Sq West
+42:Manhattan-Central Harlem North|170:Manhattan-Murray Hill
+82:Queens-Elmhurst|234:Manhattan-Union Sq
+33:Brooklyn-Brooklyn Heights|230:Manhattan-Times Sq/Theatre District
+95:Queens-Forest Hills|138:Queens-LaGuardia Airport
+244:Manhattan-Washington Heights South|142:Manhattan-Lincoln Square East
+97:Brooklyn-Fort Greene|48:Manhattan-Clinton East
+65:Brooklyn-Downtown Brooklyn/MetroTech|239:Manhattan-Upper West Side South
+66:Brooklyn-DUMBO/Vinegar Hill|163:Manhattan-Midtown North
+129:Queens-Jackson Heights|141:Manhattan-Lenox Hill West
+181:Brooklyn-Park Slope|238:Manhattan-Upper West Side North
+130:Queens-Jamaica|140:Manhattan-Lenox Hill East
+25:Brooklyn-Boerum Hill|107:Manhattan-Gramercy
+260:Queens-Woodside|68:Manhattan-East Chelsea
+43:Manhattan-Central Park|164:Manhattan-Midtown South
+116:Manhattan-Hamilton Heights|100:Manhattan-Garment District
+52:Brooklyn-Cobble Hill|229:Manhattan-Sutton Place/Turtle Bay North
+145:Queens-Long Island City/Hunters Point|263:Manhattan-Yorkville West
+61:Brooklyn-Crown Heights North|231:Manhattan-TriBeCa/Civic Center
+134:Queens-Kew Gardens|90:Manhattan-Flatiron
+152:Manhattan-Manhattanville|246:Manhattan-West Chelsea/Hudson Yards
+196:Queens-Rego Park|43:Manhattan-Central Park
+49:Brooklyn-Clinton Hill|262:Manhattan-Yorkville East
+92:Queens-Flushing|113:Manhattan-Greenwich Village North
+
 
 Upon mapping the yellow and green list above, you can clearly see in this sample that the range of the green taxi is a lot wider than the yellow taxi. 
 Yellow taxi service appears to be a predominantly manhattan based service, while the green taxi has further range in other buroughs. 
