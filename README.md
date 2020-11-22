@@ -56,13 +56,13 @@ Hour | Green Taxi | Yellow Taxi |
 19 |105.97 | 163.37 | 
 **Avg**|**107.22** | **165.11** |
 -------------------------------------
-## Green Taxi - Most Active Pick Up & Drop Off Locations - Morning & Evening Commutes ##
+## Green Taxi - Most Active Pick Up & Drop Off Zone IDs - Morning & Evening Commutes ##
 In the graphs below, I display the pick up locations with the highest counts of pick up activity for the morning commute and the drop off locations with the highest activity for the evening commute. What is most apparent is that a lot of the pick up locations shown in the morning, re-appear in the evening. This makes sense because this could mean that commuters are returning to their initial pick up locations.
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_PUMorningCount.PNG)
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/GreenTaxi_DOEveningCount.PNG)
 -------------------------------------
-## Yellow Taxi - Most Active Pick Up & Drop Off Locations - Morning & Evening Commutes ##
+## Yellow Taxi - Most Active Pick Up & Drop Off Zone IDs - Morning & Evening Commutes ##
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_PUMorningCount.PNG)
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_DOEveningCount.PNG)
@@ -73,7 +73,7 @@ In the graphs below, I display the pick up locations with the highest counts of 
 ## Observations - Zone Trip Instances - Yellow v. Green Taxi
 * In both the morning and evening commutes, green taxi had fewer trip instances than the yellow taxi service. 
 
-* Below is a descriptive list of the top 30 most active pick up locations for yellow and green taxi during the evening and morning commutes. 
+* Below is a descriptive list of the top 30 most active pick up zones for yellow and green taxi during the evening and morning commutes. 
 
 Green Taxi | Yellow Taxi |
 -------------|-------------|
@@ -109,6 +109,6 @@ Green Taxi | Yellow Taxi |
 The map below represents the active pick up zone list above. The plots represent 75% of the overall pickup total across the entire survey area.
 It is apparent that the green taxi service range is more comprehensive than the yellow taxi service. 
 The Yellow taxi service appears to be a predominantly Manhattan based service (with the exception of LaGuardia Airport), while the green taxi service expands to the other NYC buroughs.
-Also, there appears to be very little overlap amoung the pick up location zones represented above. 
+Also, there appears to be very little overlap amoung the pick up location zones. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/TopTrips.png)
