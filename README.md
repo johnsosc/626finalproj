@@ -127,7 +127,7 @@ Green Taxi Zone ID |Green DropOffs Count | Yellow Zone ID | Yellow DropOffs Coun
 **142:Manhattan-Lincoln Square East**|**1334**|**142:Manhattan-Lincoln Square East**|**12763**
 **140:Manhattan-Lenox Hill East**|**1195**|**140:Manhattan-Lenox Hill East**|**9256**
 **141:Manhattan-Lenox Hill West**|**1037**|**141:Manhattan-Lenox Hill West**|**10988**
-**162:Manhattan-Midtown East**|**944**|**162:Manhattan-Midtown East|**17869**
+**162:Manhattan-Midtown East**|**944**|**162:Manhattan-Midtown East**|**17869**
 **161:Manhattan-Midtown Center**|**921**|**161:Manhattan-Midtown Center**|**23964**
 231:Manhattan-TriBeCa/Civic Center|857|231:Manhattan-TriBeCa/Civic Center|8008
 74:Manhattan-East Harlem North|8515|163:Manhattan-Midtown North|12915
