@@ -73,7 +73,7 @@ In the graphs below, I display the pick up locations with the highest counts of 
 ## Observations - Zone Trip Instances - Yellow v. Green Taxi
 * In both the morning and evening commutes, green taxi had fewer trip instances than the yellow taxi service. 
 
-* Below is a descriptive list of the top 30 most active pick up/ drop off locations for yellow and green taxi during the evening and morning locations. 
+* Below is a descriptive list of the top 30 most active pick up/ drop off locations for yellow and green taxi during the evening and morning commutes. 
 
 Green Taxi | Yellow Taxi |
 -------------|-------------|
