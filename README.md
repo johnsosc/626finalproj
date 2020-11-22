@@ -119,7 +119,7 @@ Also, there appears to be little to no overlap among the pick up location zones.
 
 Green Taxi Zone ID |Green DropOffs Count | Yellow Zone ID | Yellow DropOffs Count
 -------------|-------------|-------------|-------------|
-238:Manhattan-Upper West Side North|3311|238:Manhattan-Upper West Side North|9901
+**238:Manhattan-Upper West Side North|3311|238:Manhattan-Upper West Side North|9901**
 236:Manhattan-Upper East Side North|3630|236:Manhattan-Upper East Side North|22699
 239:Manhattan-Upper West Side South|1941|239:Manhattan-Upper West Side South|11572
 263:Manhattan-Yorkville West|1812|263:Manhattan-Yorkville West|7547
