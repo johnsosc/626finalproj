@@ -119,41 +119,41 @@ Also, there appears to be little to no overlap among the pick up location zones.
 
 Green Taxi Zone ID |Green DropOffs Count | Yellow Zone ID | Yellow DropOffs Count
 -------------|-------------|-------------|-------------|
-**238:Manhattan-Upper West Side North**|**3311**|**238:Manhattan-Upper West Side North**|**9901**
-**236:Manhattan-Upper East Side North**|**3630**|**236:Manhattan-Upper East Side North**|**22699**
-**239:Manhattan-Upper West Side South**|**1941**|**239:Manhattan-Upper West Side South**|**11572**
-**263:Manhattan-Yorkville West**|**1812**|**263:Manhattan-Yorkville West**|**7547**
-**237:Manhattan-Upper East Side South**|**1658**|**237:Manhattan-Upper East Side South**|**21746**
-**142:Manhattan-Lincoln Square East**|**1334**|**142:Manhattan-Lincoln Square East**|**12763**
-**140:Manhattan-Lenox Hill East**|**1195**|**140:Manhattan-Lenox Hill East**|**9256**
-**141:Manhattan-Lenox Hill West**|**1037**|**141:Manhattan-Lenox Hill West**|**10988**
-**162:Manhattan-Midtown East**|**944**|**162:Manhattan-Midtown East**|**17869**
-**161:Manhattan-Midtown Center**|**921**|**161:Manhattan-Midtown Center**|**23964**
-231:Manhattan-TriBeCa/Civic Center|857|231:Manhattan-TriBeCa/Civic Center|8008
-74:Manhattan-East Harlem North|8515|163:Manhattan-Midtown North|12915
-42:Manhattan-Central Harlem North|6749|100:Manhattan-Garment District|7918
-41:Manhattan-Central Harlem|6416|233:Manhattan-UN/Turtle Bay South|6929
-75:Manhattan-East Harlem South|6249|143:Manhattan-Lincoln Square West|6585
-181:Brooklyn-Park Slope|3088|230:Manhattan-Times Sq/Theatre District|15980
-244:Manhattan-Washington Heights South|2996|170:Manhattan-Murray Hill|15316
-116:Manhattan-Hamilton Heights|2598|234:Manhattan-Union Sq|14110
-82:Queens-Elmhurst|2191|186:Manhattan-Penn Station/Madison Sq West|10500
-61:Brooklyn-Crown Heights North|2084|48:Manhattan-Clinton East|10425
-25:Brooklyn-Boerum Hill|1830|246:Manhattan-West Chelsea/Hudson Yards|10384
-166:Manhattan-Morningside Heights|5544|164:Manhattan-Midtown South|9819
-7:Queens-Astoria|4008|68:Manhattan-East Chelsea|9462
-129:Queens-Jackson Heights|3852|107:Manhattan-Gramercy|8888
-95:Queens-Forest Hills|2971|229:Manhattan-Sutton Place/Turtle Bay North|7954
-138:Queens-LaGuardia Airport|2842|79:Manhattan-East Village|6421
-97:Brooklyn-Fort Greene|2681|43:Manhattan-Central Park|6326
-33:Brooklyn-Brooklyn Heights|2198|113:Manhattan-Greenwich Village North|6214
-152:Manhattan-Manhattanville|2197|90:Manhattan-Flatiron|5956
+**238:Manhattan-Upper West Side North**|**238:Manhattan-Upper West Side North**
+**236:Manhattan-Upper East Side North**|**236:Manhattan-Upper East Side North**
+**239:Manhattan-Upper West Side South**|**239:Manhattan-Upper West Side South**
+**263:Manhattan-Yorkville West**|**263:Manhattan-Yorkville West**
+**237:Manhattan-Upper East Side South**|**237:Manhattan-Upper East Side South**
+**142:Manhattan-Lincoln Square East**|**142:Manhattan-Lincoln Square East**
+**140:Manhattan-Lenox Hill East**|140:Manhattan-Lenox Hill East**
+**141:Manhattan-Lenox Hill West**|**141:Manhattan-Lenox Hill West**
+**162:Manhattan-Midtown East**|**162:Manhattan-Midtown East**
+**161:Manhattan-Midtown Center**|**161:Manhattan-Midtown Center**
+231:Manhattan-TriBeCa/Civic Center|231:Manhattan-TriBeCa/Civic Center
+74:Manhattan-East Harlem North|163:Manhattan-Midtown North
+42:Manhattan-Central Harlem North|100:Manhattan-Garment District
+41:Manhattan-Central Harlem|233:Manhattan-UN/Turtle Bay South
+75:Manhattan-East Harlem South|143:Manhattan-Lincoln Square West
+181:Brooklyn-Park Slope|230:Manhattan-Times Sq/Theatre District
+244:Manhattan-Washington Heights South|170:Manhattan-Murray Hill
+116:Manhattan-Hamilton Heights|234:Manhattan-Union Sq
+82:Queens-Elmhurst|186:Manhattan-Penn Station/Madison Sq West
+61:Brooklyn-Crown Heights North|48:Manhattan-Clinton East
+25:Brooklyn-Boerum Hill|246:Manhattan-West Chelsea/Hudson Yards
+166:Manhattan-Morningside Heights|164:Manhattan-Midtown South
+7:Queens-Astoria|68:Manhattan-East Chelsea
+129:Queens-Jackson Heights|107:Manhattan-Gramercy
+95:Queens-Forest Hills|229:Manhattan-Sutton Place/Turtle Bay North
+138:Queens-LaGuardia Airport|79:Manhattan-East Village
+97:Brooklyn-Fort Greene|43:Manhattan-Central Park
+33:Brooklyn-Brooklyn Heights|113:Manhattan-Greenwich Village North
+152:Manhattan-Manhattanville|90:Manhattan-Flatiron
 ----------------------------------
-## Conclusions
+## Conclusion - For April 2019 Yellow and Green Taxi Data...
 
-* Green taxi has fewer overall trips than Yellow taxi during weekday mornings and evenings
-* Green taxi has fewer average miles traveled than Yellow taxi during weekday morning and evenings
-* Yellow taxis serve primarily in the manhattan zone area
+* The Green taxi service has fewer overall trips than Yellow taxi during weekday mornings and evenings
+* The Green taxi service has fewer average miles traveled than Yellow taxi during weekday morning and evenings
+* The Yellow taxi service serves primarily in the Manhattan region
 * Green taxis are able to branch out and pick up passengers in other NYC buroughs 
 * In general, yelow and green taxi pick up zones do not overlap
 * However, yellow and green taxi drop off zones do overlap
