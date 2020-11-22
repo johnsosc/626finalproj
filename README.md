@@ -74,7 +74,7 @@ In the graphs below, I display the pick up locations with the highest counts of 
 
 ### Pick Up Zone ID Analysis
 * In both the morning and evening commutes, green taxi had fewer trip instances than the yellow taxi service. 
-
+* The list below represents 75% of the yellow and green pick up zone data
 * Below is a descriptive list of the top 30 most active pick up zones for yellow and green taxi during the evening and morning commutes. 
 
 Green Taxi | Yellow Taxi |
@@ -116,8 +116,9 @@ Also, there appears to be little to no overlap among the pick up location zones.
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/TopTrips.png)
 
 ### Drop Off Zone ID Analysis
-* Below is a descriptive list of the top 30 most active drop off zones for yellow and green taxi during the evening and morning commutes. 
-* The first 10 rows are bolded due to an overlap in drop off zone IDs between the yellow and green services
+* Below is a descriptive list of the top 30 most active drop off zones for yellow and green taxi during the evening and morning commutes.
+* This list represents more than 50% of the overall yellow and green drop off zone data 
+* The first 11 rows are bolded due to an overlap in drop off zone IDs between the yellow and green services
 
 Green Taxi Zone ID | Yellow Zone ID | 
 -------------|-------------|
@@ -131,7 +132,7 @@ Green Taxi Zone ID | Yellow Zone ID |
 **141:Manhattan-Lenox Hill West**|**141:Manhattan-Lenox Hill West**
 **162:Manhattan-Midtown East**|**162:Manhattan-Midtown East**
 **161:Manhattan-Midtown Center**|**161:Manhattan-Midtown Center**
-231:Manhattan-TriBeCa/Civic Center|231:Manhattan-TriBeCa/Civic Center
+**231:Manhattan-TriBeCa/Civic Center**|**231:Manhattan-TriBeCa/Civic Center**
 74:Manhattan-East Harlem North|163:Manhattan-Midtown North
 42:Manhattan-Central Harlem North|100:Manhattan-Garment District
 41:Manhattan-Central Harlem|233:Manhattan-UN/Turtle Bay South
