@@ -116,6 +116,8 @@ Also, there appears to be little to no overlap among the pick up location zones.
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/TopTrips.png)
 
 ### Drop Off Zone ID Analysis
+* Below is a descriptive list of the top 30 most active drop off zones for yellow and green taxi during the evening and morning commutes. 
+* The first 10 rows are bolded due to an overlap in drop off zone IDs between the yellow and green services
 
 Green Taxi Zone ID | Yellow Zone ID | 
 -------------|-------------|
