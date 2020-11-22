@@ -117,15 +117,15 @@ Also, there appears to be little to no overlap among the pick up location zones.
 
 ### Drop Off Zone ID Analysis
 
-Green Taxi Zone ID |Green DropOffs Count | Yellow Zone ID | Yellow DropOffs Count
--------------|-------------|-------------|-------------|
+Green Taxi Zone ID | Yellow Zone ID | 
+-------------|-------------|
 **238:Manhattan-Upper West Side North**|**238:Manhattan-Upper West Side North**
 **236:Manhattan-Upper East Side North**|**236:Manhattan-Upper East Side North**
 **239:Manhattan-Upper West Side South**|**239:Manhattan-Upper West Side South**
 **263:Manhattan-Yorkville West**|**263:Manhattan-Yorkville West**
 **237:Manhattan-Upper East Side South**|**237:Manhattan-Upper East Side South**
 **142:Manhattan-Lincoln Square East**|**142:Manhattan-Lincoln Square East**
-**140:Manhattan-Lenox Hill East**|140:Manhattan-Lenox Hill East**
+**140:Manhattan-Lenox Hill East**|**140:Manhattan-Lenox Hill East**
 **141:Manhattan-Lenox Hill West**|**141:Manhattan-Lenox Hill West**
 **162:Manhattan-Midtown East**|**162:Manhattan-Midtown East**
 **161:Manhattan-Midtown Center**|**161:Manhattan-Midtown Center**
