@@ -9,9 +9,9 @@ Below are images of the taxi zones covered between the two files. In the assessm
 ------------------------------------------------------------------
 ## Questions
 
-* How do the yellow and green taxi morning/evening commutes compare by distance? by demand?
+* How do the yellow and green taxi morning/evening commutes compare by distance? By demand?
 * Do certain zones overlap? If not, why?
-* Which zones are highest in demand? least?
+* Which zones are highest in demand? The least?
 ------------------------------------------------------------------
 ## Approach
 * I will examine the weekday work commute to see any trends between the two services. 
@@ -88,6 +88,6 @@ Below is a description list of the most active locations for yellow and green ta
 97: Brooklyn - Fort Greene | 234: Manhattan - Union Sq. 
 
 Upon mapping the yellow and green list above, you can clearly see in this sample that the range of the green taxi is a lot wider than the yellow taxi. 
-Yellow taxi service appears to be a predominantly a manhattan based service, while the green taxi has further range in other buroughs. 
+Yellow taxi service appears to be a predominantly manhattan based service, while the green taxi has further range in other buroughs. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/Sample_Map.PNG)
