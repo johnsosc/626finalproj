@@ -74,7 +74,7 @@ In the graphs below, I display the pick up locations with the highest counts of 
 
 ### Pick Up Zone ID Analysis
 * In both the morning and evening commutes, green taxi had fewer trip instances than the yellow taxi service. 
-* The list below represents 75% of the yellow and green pick up zone data
+* The list below represents 75% of the yellow and green of the overall pickup total across the entire survey area
 * Below is a descriptive list of the top 30 most active pick up zones for yellow and green taxi during the evening and morning commutes. 
 
 Green Taxi | Yellow Taxi |
@@ -117,7 +117,7 @@ Also, there appears to be little to no overlap among the pick up location zones.
 
 ### Drop Off Zone ID Analysis
 * Below is a descriptive list of the top 30 most active drop off zones for yellow and green taxi during the evening and morning commutes.
-* This list represents more than 50% of the overall yellow and green drop off zone data 
+* This list represents more than 50% of the overall yellow and green drop off zone total across the entire survey area. 
 * The first 11 rows are bolded due to an overlap in drop off zone IDs between the yellow and green services
 
 Green Taxi Zone ID | Yellow Zone ID | 
