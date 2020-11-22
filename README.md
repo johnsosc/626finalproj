@@ -122,7 +122,7 @@ Green Taxi Zone ID |Green DropOffs Count | Yellow Zone ID | Yellow DropOffs Coun
 **238:Manhattan-Upper West Side North**|**3311**|**238:Manhattan-Upper West Side North**|**9901**
 **236:Manhattan-Upper East Side North**|**3630**|**236:Manhattan-Upper East Side North**|**22699**
 **239:Manhattan-Upper West Side South**|**1941**|**239:Manhattan-Upper West Side South**|**11572**
-**263:Manhattan-Yorkville West**|**1812**|**263:Manhattan-Yorkville West|**7547**
+**263:Manhattan-Yorkville West**|**1812**|**263:Manhattan-Yorkville West**|**7547**
 **237:Manhattan-Upper East Side South**|**1658**|**237:Manhattan-Upper East Side South**|**21746**
 **142:Manhattan-Lincoln Square East**|**1334**|**142:Manhattan-Lincoln Square East**|**12763**
 **140:Manhattan-Lenox Hill East**|**1195**|**140:Manhattan-Lenox Hill East**|**9256**
