@@ -11,7 +11,7 @@ Below are images of the taxi zones covered between the two files. In the assessm
 
 * How do the yellow and green taxi morning/evening commutes compare by distance? By demand?
 * Do certain zones overlap? If not, why?
-* Which zones are highest in demand? The Least? 
+* Which zones are highest in demand? 
 --------------------------------------------------------------------------------------------
 ## Approach
 * I will examine the weekday work commute to see any trends between the two services. 
