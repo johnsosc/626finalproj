@@ -148,5 +148,12 @@ Green Taxi Zone ID |Green DropOffs Count | Yellow Zone ID | Yellow DropOffs Coun
 97:Brooklyn-Fort Greene|2681|43:Manhattan-Central Park|6326
 33:Brooklyn-Brooklyn Heights|2198|113:Manhattan-Greenwich Village North|6214
 152:Manhattan-Manhattanville|2197|90:Manhattan-Flatiron|5956
+----------------------------------
+## Conclusions
 
-
+* Green taxi has fewer overall trips than Yellow taxi during weekday mornings and evenings
+* Green taxi has fewer average miles traveled than Yellow taxi during weekday morning and evenings
+* Yellow taxis serve primarily in the manhattan zone area
+* Green taxis are able to branch out and pick up passengers in other NYC buroughs 
+* In general, yelow and green taxi pick up zones do not overlap
+* However, yellow and green taxi drop off zones do overlap
