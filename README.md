@@ -68,11 +68,12 @@ In the graphs below, I display the pick up locations with the highest counts of 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_DOEveningCount.PNG)
 
 --------------------------------------------------
-## Observations 
+## Observations - Distance
 * In both the morning and evening commutes, green taxi had a smaller average distance traveled than the yellow taxi service. 
+## Observations - Trip Instances
 * In both the morning and evening commutes, green taxi had fewer trip instances than the yellow taxi service. 
 
-Below is a description list of the most active locations for yellow and green taxi during the evening and morning locations
+Below is a description list of the most active locations for yellow and green taxi during the evening and morning locations. 
 
  Green Taxi | Yellow Taxi |
 -------------|-------------|
@@ -105,8 +106,8 @@ Below is a description list of the most active locations for yellow and green ta
 49:Brooklyn-Clinton Hill|262:Manhattan-Yorkville East
 92:Queens-Flushing|113:Manhattan-Greenwich Village North
 
-
-Upon mapping the yellow and green list above, you can clearly see in this sample that the range of the green taxi is a lot wider than the yellow taxi. 
-Yellow taxi service appears to be a predominantly manhattan based service, while the green taxi has further range in other buroughs. 
+The map below represents the list above. The plots represent 75% of overall data.
+It is evident that the range of the green taxi is a lot wider than the yellow taxi. 
+Yellow taxi service appears to be a predominantly Manhattan based service, while the green taxi has further range in other buroughs. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/TopTrips.png)
