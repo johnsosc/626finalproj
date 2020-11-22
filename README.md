@@ -66,13 +66,6 @@ In the graphs below, I display the pick up locations with the highest counts of 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_PUMorningCount.PNG)
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_DOEveningCount.PNG)
--------------------------------------
-## Green Taxi - Least Active Pick Up & Drop Off Zone IDs - Morning & Evening Commutes ##
-
-In the graphs below, I display the pick up locations with the highest counts of pick up activity for the morning commute and the drop off locations with the highest activity for the evening commute.
--------------------------------------
-## Yellow Taxi - Most Active Pick Up & Drop Off Zone IDs - Morning & Evening Commutes ##
-
 
 --------------------------------------------------
 ## Observations - Trip Distance - Yellow v. Green Taxi
@@ -121,3 +114,37 @@ The Yellow taxi service appears to be a predominantly Manhattan based service (w
 Also, there appears to be little to no overlap among the pick up location zones. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/TopTrips.png)
+
+### Drop Off Zone ID Analysis
+
+Green Taxi Zone ID |Green DropOffs Count | Yellow Zone ID | Yellow DropOffs Count
+-------------|-------------|-------------|-------------|
+238:Manhattan-Upper West Side North|3311|142:Manhattan-Lincoln Square East|12763
+236:Manhattan-Upper East Side North|3630|161:Manhattan-Midtown Center|23964
+239:Manhattan-Upper West Side South|1941|236:Manhattan-Upper East Side North|22699
+263:Manhattan-Yorkville West|1812|237:Manhattan-Upper East Side South|21746
+237:Manhattan-Upper East Side South|1658|162:Manhattan-Midtown East|17869
+142:Manhattan-Lincoln Square East|1334|239:Manhattan-Upper West Side South|11572
+140:Manhattan-Lenox Hill East|1195|141:Manhattan-Lenox Hill West|10988
+141:Manhattan-Lenox Hill West|1037|238:Manhattan-Upper West Side North|9901
+162:Manhattan-Midtown East|944|140:Manhattan-Lenox Hill East|9256
+161:Manhattan-Midtown Center|921|231:Manhattan-TriBeCa/Civic Center|8008
+231:Manhattan-TriBeCa/Civic Center|857|263:Manhattan-Yorkville West|7547
+74:Manhattan-East Harlem North|8515|163:Manhattan-Midtown North|12915
+42:Manhattan-Central Harlem North|6749|100:Manhattan-Garment District|7918
+41:Manhattan-Central Harlem|6416|233:Manhattan-UN/Turtle Bay South|6929
+75:Manhattan-East Harlem South|6249|143:Manhattan-Lincoln Square West|6585
+181:Brooklyn-Park Slope|3088|230:Manhattan-Times Sq/Theatre District|15980
+244:Manhattan-Washington Heights South|2996|170:Manhattan-Murray Hill|15316
+116:Manhattan-Hamilton Heights|2598|234:Manhattan-Union Sq|14110
+82:Queens-Elmhurst|2191|186:Manhattan-Penn Station/Madison Sq West|10500
+61:Brooklyn-Crown Heights North|2084|48:Manhattan-Clinton East|10425
+25:Brooklyn-Boerum Hill|1830|246:Manhattan-West Chelsea/Hudson Yards|10384
+166:Manhattan-Morningside Heights|5544|164:Manhattan-Midtown South|9819
+7:Queens-Astoria|4008|68:Manhattan-East Chelsea|9462
+129:Queens-Jackson Heights|3852|107:Manhattan-Gramercy|8888
+95:Queens-Forest Hills|2971|229:Manhattan-Sutton Place/Turtle Bay North|7954
+138:Queens-LaGuardia Airport|2842|79:Manhattan-East Village|6421
+97:Brooklyn-Fort Greene|2681|43:Manhattan-Central Park|6326
+33:Brooklyn-Brooklyn Heights|2198|113:Manhattan-Greenwich Village North|6214
+152:Manhattan-Manhattanville|2197|90:Manhattan-Flatiron|5956
