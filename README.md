@@ -120,15 +120,15 @@ Also, there appears to be little to no overlap among the pick up location zones.
 Green Taxi Zone ID |Green DropOffs Count | Yellow Zone ID | Yellow DropOffs Count
 -------------|-------------|-------------|-------------|
 **238:Manhattan-Upper West Side North**|**3311**|**238:Manhattan-Upper West Side North**|**9901**
-236:Manhattan-Upper East Side North|3630|236:Manhattan-Upper East Side North|22699
-239:Manhattan-Upper West Side South|1941|239:Manhattan-Upper West Side South|11572
-263:Manhattan-Yorkville West|1812|263:Manhattan-Yorkville West|7547
-237:Manhattan-Upper East Side South|1658|237:Manhattan-Upper East Side South|21746
-142:Manhattan-Lincoln Square East|1334|142:Manhattan-Lincoln Square East|12763
-140:Manhattan-Lenox Hill East|1195|140:Manhattan-Lenox Hill East|9256
-141:Manhattan-Lenox Hill West|1037|141:Manhattan-Lenox Hill West|10988
-162:Manhattan-Midtown East|944|162:Manhattan-Midtown East|17869
-161:Manhattan-Midtown Center|921|161:Manhattan-Midtown Center|23964
+**236:Manhattan-Upper East Side North**|**3630**|**236:Manhattan-Upper East Side North**|**22699**
+**239:Manhattan-Upper West Side South**|**1941**|**239:Manhattan-Upper West Side South**|**11572**
+**263:Manhattan-Yorkville West**|**1812**|**263:Manhattan-Yorkville West|**7547**
+**237:Manhattan-Upper East Side South**|**1658**|**237:Manhattan-Upper East Side South**|**21746**
+**142:Manhattan-Lincoln Square East**|**1334**|**142:Manhattan-Lincoln Square East**|**12763**
+**140:Manhattan-Lenox Hill East**|**1195**|**140:Manhattan-Lenox Hill East**|**9256**
+**141:Manhattan-Lenox Hill West**|**1037**|**141:Manhattan-Lenox Hill West**|**10988**
+**162:Manhattan-Midtown East**|**944**|**162:Manhattan-Midtown East|**17869**
+**161:Manhattan-Midtown Center**|**921**|**161:Manhattan-Midtown Center**|**23964**
 231:Manhattan-TriBeCa/Civic Center|857|231:Manhattan-TriBeCa/Civic Center|8008
 74:Manhattan-East Harlem North|8515|163:Manhattan-Midtown North|12915
 42:Manhattan-Central Harlem North|6749|100:Manhattan-Garment District|7918
