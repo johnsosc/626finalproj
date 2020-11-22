@@ -108,6 +108,7 @@ Green Taxi | Yellow Taxi |
 
 The map below represents the active list above. The plots represent 75% of the overall pickup total across the entire survey area.
 It is apparent that the green taxi service range is more comprehensive than the yellow taxi service. 
-The Yellow taxi service appears to be a predominantly Manhattan based service (with the exception of LaGuardia Airport), while the green taxi service expands to the other NYC buroughs. 
+The Yellow taxi service appears to be a predominantly Manhattan based service (with the exception of LaGuardia Airport), while the green taxi service expands to the other NYC buroughs.
+Also, there appears to be very little overlap amoung the pick up location data represented above. 
 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/TopTrips.png)
