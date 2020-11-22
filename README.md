@@ -68,6 +68,7 @@ In the graphs below, I display the pick up locations with the highest counts of 
 ![Image of graph](https://github.com/johnsosc/626finalproj/blob/main/Images/YellowTaxi_DOEveningCount.PNG)
 -------------------------------------
 ## Green Taxi - Least Active Pick Up & Drop Off Zone IDs - Morning & Evening Commutes ##
+
 In the graphs below, I display the pick up locations with the highest counts of pick up activity for the morning commute and the drop off locations with the highest activity for the evening commute.
 -------------------------------------
 ## Yellow Taxi - Most Active Pick Up & Drop Off Zone IDs - Morning & Evening Commutes ##
